@@ -1,6 +1,4 @@
-*{
-    outline: 1px solid green;
-}
+
 .navbar {
     margin-bottom: 0;
     background-color: #424242;
@@ -57,3 +55,9 @@
 form>input,textarea{
   border:0;
 }
+.footer p,h3,span{
+    color:#fff;
+    text-align: center;
+}
+.footer{
+    background-color: #424242;}
